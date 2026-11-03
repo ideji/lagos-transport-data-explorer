@@ -49,3 +49,30 @@ lagos-transport-data-explorer/
 ├── notebooks/
 ├── src/
 └── images/
+
+🚧 Project Status
+
+🟡 Work in progress
+
+I am currently developing my Python and data-analysis skills and will update this repository as the project progresses.
+
+🧠 What I'm Learning
+
+This project is being used to strengthen my understanding of:
+
+Python
+Data analysis
+Data cleaning
+Data visualisation
+Git and GitHub
+Working with real-world datasets
+🌍 Why This Matters
+
+I'm particularly interested in how data, AI and digital technologies can support better public services and transport systems in African cities.
+
+👤 Author
+
+Ayodeji
+
+Interested in AI, data analytics, GovTech and digital transformation.
+
